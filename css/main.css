@@ -1,0 +1,239 @@
+body {
+    font-family: "Myriad Pro Regular", Serif, serif;
+    padding: 0;
+    margin: 0;
+}
+div {
+    box-sizing: border-box;
+}
+.container{
+    width: 1130px;
+    margin: 0 auto;
+}
+.linegr {
+    padding: 0;
+    margin: 0;
+    background: #ededed;
+    height: 60px;
+}
+.cont {
+    margin-top: 0;
+}
+.adr {
+    float: left;
+    display: inline-block;
+    padding-top: 5px
+  }
+ul.hr li {
+    float: left;
+    display: block;
+    margin-right: 35px;
+}
+.st-select {
+    background-color: #212121;
+    border-radius: 4px;
+    width: 120px;
+    height: 28px;
+    vertical-align: middle;
+    text-align: center;
+    color:#ffffff;
+    padding:2px 0 3px 0;
+}
+.fa-angle-down {
+    background-color: #212121;
+    color:#ffffff;
+}
+.fa-phone {
+    padding-left:20px;
+    width: 180px;
+}
+.social {
+    margin-top: 0;
+    float: right;
+}
+.hr1 {
+    display: inline-block;
+}
+.hr1 li a {
+    text-decoration: none;
+    color: black;
+    }
+ul.hr1 li {
+    margin: 0 8px 0 0;
+    display: inline-block;
+    padding: 3px;
+    float: left;
+}
+.logospoler {
+    padding: 0;
+    margin: 0;
+    height: 143px;
+}
+.logon {
+    float: left;
+}
+.logo{
+    padding-top:30px;
+    margin: 0;
+}
+.spoler {
+    padding-top: 30px;
+    margin-left:600px ;
+}
+.fa-check-circle-o {
+    float: left;
+    font-style: italic;
+    color: gray;
+}
+.spoler li:first-child {
+    float: left;
+}
+.spoler li:last-child {
+    float: right;
+}
+.spoler li:nth-child(2){
+    padding-left: 65px;
+}
+li.gray {
+padding-left: 20px;
+}
+.poleb {
+    font-weight: bold;
+    white-space:pre;
+
+}
+.gray {
+    color: #888888;
+    white-space:pre;
+}
+
+.spoler li {
+    padding-left: 30px;
+    margin: 0;
+    display: inline-block;
+    float: right;
+    /*  width: 140px;*/
+}
+ul.sp li {
+    float: left;
+}
+.sloi {
+    margin: 0 auto;
+    height: 772px;
+    background: #a42830;
+    padding-bottom: 40px;
+}
+
+.fon-menu {
+    background: url(../img/back1.jpeg) no-repeat center / cover;
+padding-bottom: 228px;
+}
+.cont-menu {
+    height: 65px;
+    background:#000000; opacity:0.8;
+}
+nav {
+    float: left;
+    margin-top: 26px;
+}
+.menu {
+    float:left;
+    padding: 0;
+    margin: 0;
+
+}
+.menu li {
+    float: left;
+    display: block;
+    font-size: 16px;
+    margin-right: 26px;
+}
+.menu li a {
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: block;
+    font-weight: bold;
+    font-size: 16px;}
+.menu li a:hover {
+     border-bottom: 7px solid red;
+    height:30px;
+}
+.lupa {
+    float: right;
+    margin:0;
+ }
+a.fa-search {
+    text-decoration: none;
+    color: white;
+    margin-top: 28px;
+  }
+.chevron {
+    margin: 0;
+    padding: 0 20px 0 35px;
+
+}
+a.fa-chevron-left {
+    float: left;
+    color: white;
+    margin-top: 320px;
+    text-decoration: none;
+}
+a.fa-chevron-right {
+    float: right;
+    color: white;
+    margin-top: 320px;
+    text-decoration: none;
+}
+.bl-nadp1 {
+    margin-left: 0;
+    color: white;
+    padding-top: 180px;
+    line-height: 1.2em;
+    font-family: "Arial", Serif, serif;
+   }
+.first {
+    font-size: 32px;
+    color: red;
+}
+.second {
+    font-size: 40px;
+}
+.three {
+    text-transform: uppercase;
+    font-size: 24px;
+}
+.bl-nadp2 {
+    margin: 0;
+    line-height: 1em;
+    font-family: "Arial", Serif, serif;
+}
+.nadp2 {
+    color: white;
+    float: left;
+}
+.four {
+    font-size:30px;
+}
+.five {
+    font-size: 24px;
+}
+.but {
+    float: right;
+    display: block;
+    margin-top: 35px;
+
+}
+a.button {
+    background:#ffffff;
+    border-radius: 4px;
+    display: block;
+    width: 140px;
+    color:#000000;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 18px;
+    font-weight: bold;
+    font-size: 16px;
+    height:43px
+   }
